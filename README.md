@@ -1,6 +1,6 @@
 ### hi, I'm Ahyan. I build things.
 
-CS + AI at the University of Nottingham. I like software that does real work and can show its working: agents whose claims carry citations, forecasts held to significance tests, scores computed from evidence.
+I like software that does real work and can show its working: agents whose claims carry citations, forecasts held to significance tests, scores computed from evidence. Based in London; studying CS + AI at Nottingham.
 
 ```text
 dealscreen        agentic due diligence, every fact cited       python · claude
